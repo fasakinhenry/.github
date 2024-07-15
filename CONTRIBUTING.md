@@ -1,6 +1,6 @@
 # Contributing to My Projects
 
-Thank you for your interest in contributing to my open source projects! Your contributions, no matter how large or small, are greatly appreciated. This guide will help you contribute effectively to any of my repositories.
+Thank you for your interest in contributing to my open-source projects! Your contributions, no matter how large or small, are greatly appreciated. This guide will help you contribute effectively to any of my repositories.
 
 ## Code of Conduct
 
@@ -85,6 +85,17 @@ Use GitHub's draft pull requests for work-in-progress contributions.
 ## Issue Assignment
 
 Comment `.take` on an issue to assign it to yourself. Unassigned issues are considered open for contribution.
+
+## Funding
+
+If you find value in my projects and would like to support their development, please consider contributing financially. You can do this through:
+
+- [GitHub Sponsors](https://github.com/sponsors/fasakinhenry)
+- [Open Collective](https://opencollective.com/fasakin-henry)
+
+If you've contributed to any of my projects, either directly or indirectly, please feel free to add your profile to the [.github/funding.yml](https://github.com/fasakinhenry/fasakinhenry/blob/main/.github/funding.yml) file.
+
+Your support helps ensure the continued maintenance and improvement of these open-source projects. Thank you for your generosity!
 
 ## Questions?
 
