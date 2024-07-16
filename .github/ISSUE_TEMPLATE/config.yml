@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🤔 Questions and Help
+    url: https://github.com/fasakinhenry/fasakinhenry/discussions
+    about: This issue tracker is not for support questions. Please refer to our Discussions page.
+  - name: 💬 Community Chat
+    url: https://discord.gg/z3nQTqaD
+    about: Join our community chat for quick questions and discussions.
+  - name: 📖 Documentation
+    url: https://github.com/fasakinhenry/fasakinhenry
+    about: Please check our documentation before submitting issues.
+  - name: 🔒 Security Issues
+    url: https://github.com/fasakinhenry/fasakinhenry/security/policy
+    about: Please report security vulnerabilities here.
