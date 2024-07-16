@@ -4,7 +4,7 @@ Community health for my personal profile @fasakinhenry. This repository contains
 
 ## Why do I need it? 🤔
 
-This .github contains all the community health files that encourage healthy contributions by me and other developers contributing to my projects most of which are open source. Check out the link https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file to learn more about community health files. This repository contains:
+This .github contains all the community health files that encourage healthy contributions by me and other developers contributing to my projects most of which are open source. Check out the link https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file to learn more about community health files.
 
 ## Contents 👜
 
